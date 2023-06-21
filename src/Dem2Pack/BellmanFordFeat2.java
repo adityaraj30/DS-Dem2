@@ -38,7 +38,7 @@ public class BellmanFordFeat2 {
         System.out.println("First to Third Degree Connections: " + cat1);
         System.out.println("Fourth and Fifth Degree Connections: " + cat2);
         System.out.println("Higher than fifth degree connections: " + cat3);
-        System.out.println("Number of zeroes " + numzero);
+
 
     }
 
